@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    
+}
+#quote{
+text-align: center;
+}
+#character{
+    text-align: right;
+}
+.container{
+    background-image: url('https://cdn.wallpapersafari.com/74/17/mCAyI8.jpeg');
+}
+.jumbotron{
+    background-color: #F8E2CF! important;
+}
